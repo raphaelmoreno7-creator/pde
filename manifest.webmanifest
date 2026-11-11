@@ -1,0 +1,10 @@
+{
+  "name": "Palais des Enquêtes",
+  "short_name": "P.D.E.",
+  "description": "Le bureau d'enquête de Camille Lou",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f3f2ed",
+  "theme_color": "#17272d",
+  "icons": []
+}
