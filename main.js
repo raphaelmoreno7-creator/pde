@@ -1,4 +1,4 @@
-import { createClient } from "https://esm.sh/@supabase/supabase-js@2";
+const { createClient } = window.supabase;
 import { SUPABASE_PUBLISHABLE_KEY, SUPABASE_URL } from "./config.js";
 
 const app = document.querySelector("#app");
